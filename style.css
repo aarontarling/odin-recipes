@@ -1,13 +1,34 @@
-h1 {
-    color: olivedrab;
-    text-align: center;
-}
-
-h2 {
-    color: olive;
-    text-align: center;
-}
-
 li{
     color: gray;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    width: 200;
+    text-align: center;
+}
+
+div {
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 10px;
+    color: #EEEEEE;
+}
+
+.Main-Heading {
+    background-color: #548CA8;
+}
+  
+.Ingredients {
+    background-color: #476072;
+}
+  
+.Instructions {
+    background-color: #334257;
 }
